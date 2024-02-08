@@ -14,6 +14,7 @@ pygame.display.set_caption("Space Pong")
 background = pygame.image.load('background.png')
 background = pygame.transform.scale(background, (WIDTH, HEIGHT))
 
+# Load images
 alien_image = pygame.image.load('alien.png')
 alien_image = pygame.transform.scale(alien_image, (40, 50))
 
@@ -45,8 +46,9 @@ class Paddle:
             self.rect.y += PADDLE_VELOCITY
 
 
+# Define ball
 BALL_RADIUS = 10
-BALL_VELOCITY = [7, 7]
+BALL_VELOCITY = [5, 5]
 
 
 class Ball:
@@ -55,31 +57,39 @@ class Ball:
         self.velocity = velocity
         self.last_hit_paddle = None
 
+
+# Define block
 class Block:
     def __init__(self, x, y):
         self.rect = pygame.Rect(x, y, BLOCK_WIDTH, BLOCK_HEIGHT)
 
 
+# Define alien
 class Alien:
     def __init__(self, x, y):
         self.rect = pygame.Rect(x, y, 40, 40)
 
 
+# Function to get player names
 def get_player_names():
     player1_name = input("Enter name for Player 1: ")
     player2_name = input("Enter name for Player 2: ")
     return player1_name, player2_name
 
 
+# Set up fonts
 SCORE_FONT = pygame.font.Font(None, 36)
 WINNER_FONT = pygame.font.Font(None, 60)
 
+# Initialize scores and block reward
 player1_score = 0
 player2_score = 0
 block_reward = 1
 
+# Initialize winner_text
 winner_text = ""
 
+# Function to draw game window
 def draw_window(player1_paddle, player2_paddle, ball, blocks, alien, player1_score, player2_score, player1_name,
                 player2_name, winner_text=None, restart_text=None):
     # Draw background
@@ -91,6 +101,7 @@ def draw_window(player1_paddle, player2_paddle, ball, blocks, alien, player1_sco
     pygame.draw.rect(WIN, CYAN, player1_paddle.rect)
     pygame.draw.rect(WIN, CYAN, player2_paddle.rect)
 
+    # Draw the alien image instead of the spaceship image
     WIN.blit(alien_image, alien.rect.topleft)
 
     # Draw the spaceship image at the ball's position
@@ -167,9 +178,11 @@ while run_game:
         ball.rect.x += ball.velocity[0]
         ball.rect.y += ball.velocity[1]
 
+        # Ball and wall collisions
         if ball.rect.top <= 0 or ball.rect.bottom >= HEIGHT:
             ball.velocity[1] = -ball.velocity[1]
 
+        # Ball and paddle collisions
         if ball.rect.colliderect(player1_paddle.rect):
             ball.velocity[0] = -ball.velocity[0]
             ball.last_hit_paddle = "Player 1"
@@ -206,7 +219,7 @@ while run_game:
             ball.rect.x = WIDTH // 2
             ball.rect.y = HEIGHT // 2
 
-        # Checks for winner
+        # Check for winner
         if player1_score >= 10 or player2_score >= 10 or player1_score == -1 or player2_score == -1:
             if player1_score == -1 or player2_score == -1:
                 winner_text = f"{player1_name if player1_score == -1 else player2_name} Loses!"
