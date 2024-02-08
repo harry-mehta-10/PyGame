@@ -1,0 +1,109 @@
+Date and Time: 2023-12-13 15:54:38.619476
+Date and Time: 2023-12-13 16:03:24.891071
+Winner: ee Wins!, Date and Time: 2023-12-13 16:03:41.663165
+Winner: sd Wins!, Date and Time: 2023-12-13 16:08:22.698707
+Winner: wew Wins!,dfd: 0,wew: 10, 2023-12-13 16:12:01.742618
+Winner: ps Wins!,harry: 0,ps: 10, Date and Time: 2023-12-13 16:15:37
+Winner: udk Wins!,idk: 2,udk: 10, Date and Time: 2023-12-14 07:46:41
+Winner: t Wins!,r: 1,t: 10, Date and Time: 2023-12-14 08:32:28
+Winner: jyoti Wins!,jyoti: 10,hardik: 4, Date and Time: 2023-12-14 11:13:26
+Winner: hardik Wins!,jyoti: 0,hardik: 10, Date and Time: 2023-12-14 11:14:47
+Winner: gg Loses!,gg: -1,rr: 2, Date and Time: 2023-12-14 16:58:25
+Winner: gg Wins!,gg: 10,rr: 3, Date and Time: 2023-12-14 17:00:23
+Winner: rr Loses!,gg: 0,rr: -1, Date and Time: 2023-12-14 17:00:25
+Winner: gg Wins!,gg: 10,rr: 4, Date and Time: 2023-12-14 17:01:45
+Winner: muskan Loses!,hardik: 2,muskan: -1, Date and Time: 2023-12-14 17:04:11
+Winner: e Loses!,ik: 3,e: -1, Date and Time: 2023-12-14 17:09:12
+Winner: e Loses!,e: -1,i: 0, Date and Time: 2023-12-14 17:10:51
+Winner: e Loses!,e: -1,i: 0, Date and Time: 2023-12-14 17:10:53
+Winner: e Wins!,e: 10,r: 0, Date and Time: 2023-12-14 17:50:38
+Winner: r Wins!,e: 1,r: 10, Date and Time: 2023-12-14 17:55:05
+Winner: e Loses!,e: -1,r: 1, Date and Time: 2023-12-14 18:00:26
+Winner: r Loses!,e: 0,r: -1, Date and Time: 2023-12-14 18:03:07
+Winner: r Loses!,e: 1,r: -1, Date and Time: 2023-12-14 18:04:18
+Winner: b Wins!,a: 0,b: 10, Date and Time: 2023-12-14 18:10:43
+Winner: re Loses!,e: 2,re: -1, Date and Time: 2023-12-14 18:12:56
+Winner: r Loses!,e: 1,r: -1, Date and Time: 2023-12-14 18:14:17
+Winner: r Loses!,e: 1,r: -1, Date and Time: 2023-12-14 18:14:28
+Winner: r Loses!,e: 1,r: -1, Date and Time: 2023-12-14 18:22:49
+Winner: r Loses!,e: 1,r: -1, Date and Time: 2023-12-14 18:23:17
+Winner: aaron kataria Wins!,aaron kataria: 10,harry mehta: 4, Date and Time: 2023-12-14 19:31:03
+Winner: harry mehta Loses!,aaron kataria: 0,harry mehta: -1, Date and Time: 2023-12-14 19:31:12
+Winner: harry mehta Wins!,aaron kataria: 5,harry mehta: 10, Date and Time: 2023-12-14 19:33:16
+Winner: harry mehta Wins!,aaron kataria: 8,harry mehta: 10, Date and Time: 2023-12-23 22:33:55
+Winner: harry mehta Wins!,aaron kataria: 1,harry mehta: 10, Date and Time: 2023-12-23 22:34:47
+Winner: harry mehta Wins!,aaron kataria: 2,harry mehta: 10, Date and Time: 2023-12-23 22:35:27
+Winner: harry mehta Wins!,aaron kataria: 0,harry mehta: 10, Date and Time: 2023-12-23 22:36:03
+Winner: aaron kataria Loses!,aaron kataria: -1,harry mehta: 1, Date and Time: 2023-12-23 22:36:14
+Winner: aaron kataria Loses!,aaron kataria: -1,harry mehta: 2, Date and Time: 2023-12-23 22:36:34
+Winner: harry mehta Wins!,aaron kataria: 8,harry mehta: 10, Date and Time: 2023-12-23 22:38:34
+Winner: aaron kataria Loses!,aaron kataria: -1,harry mehta: 7, Date and Time: 2023-12-23 22:39:39
+Winner: aaron kataria Loses!,aaron kataria: -1,harry mehta: 0, Date and Time: 2023-12-23 22:39:58
+Winner: aaron kataria Loses!,aaron kataria: -1,harry mehta: 2, Date and Time: 2023-12-23 22:40:15
+Winner: harry mehta Wins!,aaron kataria: 1,harry mehta: 10, Date and Time: 2023-12-23 22:40:40
+Winner: harry mehta Wins!,aaron kataria: 1,harry mehta: 10, Date and Time: 2023-12-23 22:41:19
+Winner: aaron kataria Wins!,aaron kataria: 10,harry mehta: 9, Date and Time: 2023-12-24 13:31:57
+Winner: HARRY MEHTA Wins!,AARON KATARIA: 9,HARRY MEHTA: 10, Date and Time: 2023-12-24 17:46:33
+Winner: HARRY MEHTA Wins!,AARON KATARIA: 3,HARRY MEHTA: 10, Date and Time: 2023-12-24 17:47:41
+Winner: AARON KATARIA Loses!,AARON KATARIA: -1,HARRY MEHTA: 1, Date and Time: 2023-12-24 17:47:50
+Winner: HARRY MEHTA Loses!,AARON KATARIA: 0,HARRY MEHTA: -1, Date and Time: 2023-12-24 17:48:08
+Winner: HARRY MEHTA Wins!,AARON KATARIA: 7,HARRY MEHTA: 10, Date and Time: 2023-12-24 17:49:35
+Winner: HARRY MEHTA Wins!,AARON KATARIA: 9,HARRY MEHTA: 10, Date and Time: 2023-12-24 17:51:39
+Winner: HARRY MEHTA Wins!,AARON KATARIA: 1,HARRY MEHTA: 10, Date and Time: 2023-12-24 17:52:21
+Winner: HARRY MEHTA Wins!,AARON KATARIA: 7,HARRY MEHTA: 10, Date and Time: 2023-12-24 17:53:31
+Winner: HARRY MEHTA Wins!,AARON KATARIA: 2,HARRY MEHTA: 10, Date and Time: 2023-12-24 17:55:32
+Winner: HARRY MEHTA Wins!,AARON KATARIA: 6,HARRY MEHTA: 10, Date and Time: 2023-12-24 19:27:18
+Winner: HARRY MEHTA Wins!,AARON KATARIA: 5,HARRY MEHTA: 10, Date and Time: 2023-12-24 19:28:39
+Winner: HARRY MEHTA Wins!,AARON KATARIA: 1,HARRY MEHTA: 10, Date and Time: 2023-12-24 19:29:39
+Winner: AARON KATARIA Loses!,AARON KATARIA: -1,HARRY MEHTA: 5, Date and Time: 2023-12-24 19:30:38
+Winner: HARRY MEHTA Wins!,AARON KATARIA: 4,HARRY MEHTA: 10, Date and Time: 2023-12-24 19:31:42
+Winner: AARON KATARIA Loses!,AARON KATARIA: -1,HARRY MEHTA: 6, Date and Time: 2023-12-24 19:32:35
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 3, Date and Time: 2023-12-26 21:32:54
+Winner: HARRY MEHTA Loses!,HARRY MEHTA: -1,AARON KATARIA: 0, Date and Time: 2023-12-26 21:33:00
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 1, Date and Time: 2023-12-26 21:33:45
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 8, Date and Time: 2023-12-26 21:34:50
+Winner: HARRY MEHTA Loses!,HARRY MEHTA: -1,AARON KATARIA: 1, Date and Time: 2023-12-26 21:35:05
+Winner: AARON KATARIA Loses!,HARRY MEHTA: 9,AARON KATARIA: -1, Date and Time: 2023-12-26 21:35:39
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 8, Date and Time: 2023-12-26 21:36:41
+Winner: HARRY MEHTA Loses!,HARRY MEHTA: -1,AARON KATARIA: 0, Date and Time: 2023-12-26 21:36:46
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 5, Date and Time: 2023-12-26 21:38:03
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 3, Date and Time: 2023-12-26 21:38:27
+Winner: HARRY MEHTA Loses!,HARRY MEHTA: -1,AARON KATARIA: 1, Date and Time: 2023-12-26 21:38:36
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 2, Date and Time: 2023-12-26 21:39:37
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 8, Date and Time: 2023-12-26 21:40:28
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 9, Date and Time: 2023-12-26 21:41:32
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 2, Date and Time: 2023-12-26 21:42:10
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 6, Date and Time: 2023-12-26 21:42:53
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 2, Date and Time: 2023-12-26 21:43:27
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 7, Date and Time: 2023-12-26 21:44:15
+Winner: AARON KATARIA Loses!,HARRY MEHTA: 2,AARON KATARIA: -1, Date and Time: 2023-12-26 21:44:49
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 0, Date and Time: 2023-12-26 21:45:13
+Winner: AARON KATARIA Loses!,HARRY MEHTA: 5,AARON KATARIA: -1, Date and Time: 2023-12-26 21:45:37
+Winner: HARRY MEHTA Loses!,HARRY MEHTA: -1,AARON KATARIA: 6, Date and Time: 2023-12-26 21:46:14
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 8, Date and Time: 2023-12-26 21:47:19
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 5, Date and Time: 2023-12-26 21:48:13
+Winner: AARON KATARIA Loses!,HARRY MEHTA: 1,AARON KATARIA: -1, Date and Time: 2023-12-26 21:48:27
+Winner: AARON KATARIA Wins!,HARRY MEHTA: 7,AARON KATARIA: 10, Date and Time: 2023-12-26 21:49:31
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 2, Date and Time: 2024-01-02 14:30:53
+Winner: AARON KATARIA Loses!,HARRY MEHTA: 1,AARON KATARIA: -1, Date and Time: 2024-01-02 14:31:00
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 3, Date and Time: 2024-01-02 14:32:54
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 3, Date and Time: 2024-01-02 14:34:40
+Winner: AARON KATARIA Loses!,HARRY MEHTA: 1,AARON KATARIA: -1, Date and Time: 2024-01-02 14:36:35
+Winner: AARON KATARIA Loses!,HARRY MEHTA: 1,AARON KATARIA: -1, Date and Time: 2024-01-02 14:37:23
+Winner: HARRY MEHTA Loses!,HARRY MEHTA: -1,AARON KATARIA: 3, Date and Time: 2024-01-02 14:37:49
+Winner: AARON KATARIA Loses!,HARRY MEHTA: 2,AARON KATARIA: -1, Date and Time: 2024-01-02 14:38:12
+Winner: HARRY MEHTA Loses!,HARRY MEHTA: -1,AARON KATARIA: 1, Date and Time: 2024-01-02 14:38:20
+Winner: HARRY MEHTA Loses!,HARRY MEHTA: -1,AARON KATARIA: 0, Date and Time: 2024-01-02 14:38:31
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 7, Date and Time: 2024-01-02 14:40:08
+Winner: AARON KATARIA Loses!,HARRY MEHTA: 1,AARON KATARIA: -1, Date and Time: 2024-01-02 14:40:34
+Winner: HARRY MEHTA Wins!,HARRY MEHTA: 10,AARON KATARIA: 9, Date and Time: 2024-01-02 14:42:24
+Winner: AARON KATARIA Loses!,AARON KATARIA: -1,HARDIK MEHTA: 2, Date and Time: 2024-01-07 19:47:20
+Winner: HARDIK MEHTA Wins!,AARON KATARIA: 7,HARDIK MEHTA: 10, Date and Time: 2024-01-07 19:50:29
+Winner: AARON KATARIA Loses!,AARON KATARIA: -1,HARDIK MEHTA: 0, Date and Time: 2024-01-07 19:50:39
+Winner: AARON KATARIA Loses!,AARON KATARIA: -1,HARDIK MEHTA: 0, Date and Time: 2024-01-07 19:51:02
+Winner: HARDIK MEHTA Wins!,AARON KATARIA: 0,HARDIK MEHTA: 10, Date and Time: 2024-01-07 19:53:08
+Winner: PAPPU KATARIA Loses!,PAPPU KATARIA: -1,HARDIK MEHTA: 2, Date and Time: 2024-01-07 19:53:34
+Winner: PAPPU KATARIA Loses!,PAPPU KATARIA: -1,PAPPU MEHTA: 1, Date and Time: 2024-01-07 19:54:59
+Winner: PAPPU MEHTA Wins!,PAPPU KATARIA: 7,PAPPU MEHTA: 10, Date and Time: 2024-01-07 19:57:59
+Winner: PAPPU MEHTA Wins!,PAPPU KATARIA: 6,PAPPU MEHTA: 10, Date and Time: 2024-01-07 20:00:15
+Winner: Player 1 Wins!,Player 1: 10,Player 2: 0, Date and Time: 2024-02-07 23:49:53
